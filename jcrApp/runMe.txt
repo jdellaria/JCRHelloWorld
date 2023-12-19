@@ -1,0 +1,6 @@
+
+To Compile:
+mvn clean install
+
+To Run
+mvn exec:java
